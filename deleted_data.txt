@@ -1,0 +1,2 @@
+Daftar Barang Dihapus:
+ID: 1, Nama: Laptop, Jumlah: 10, Kategori: elektronik, Waktu Dihapus: 2024-06-09 21:37:32
